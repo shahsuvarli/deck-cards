@@ -1,23 +1,21 @@
 .App {
   text-align: center;
   justify-content: center;
-  display: grid;
+  /* display: grid; */
+  width: 100%;
 }
 .deck-board {
   justify-content: center;
   align-items: center;
   display: block;
-  width: 100%;
-  border: 1px solid black;
 }
 .card-list {
   flex-wrap: wrap;
-  width: 1300px;
+  width: 90%;
   padding: 10px;
 }
 .card-image {
   width: 90px;
-  height: auto;
   margin: 5px;
 }
 button {

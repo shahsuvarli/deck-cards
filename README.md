@@ -37,4 +37,4 @@ Credits
 License
 -------
 
-This project is licensed under the [MIT License](https://github.com/%3Cusername%3E/%3Crepository-name%3E/blob/master/LICENSE).
+This project is licensed under the MIT License
